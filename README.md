@@ -1,5 +1,5 @@
-# raiden-network-token price 
+# nectar price 
 
-Gets the raiden-network-token price with Python (from JSON).
+Gets the nectar price with Python (from JSON).
 
 https://pythonbasics.org
