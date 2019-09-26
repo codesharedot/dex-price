@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-quantum-resistant-ledger_api_url = 'https://api.coinmarketcap.com/v1/ticker/quantum-resistant-ledger/'
-response = requests.get(quantum-resistant-ledger_api_url)
+newyork-exchange_api_url = 'https://api.coinmarketcap.com/v1/ticker/newyork-exchange/'
+response = requests.get(newyork-exchange_api_url)
 response_json = response.json()
 print(response_json)
 

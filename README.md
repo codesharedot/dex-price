@@ -1,5 +1,5 @@
-# quantum-resistant-ledger price 
+# newyork-exchange price 
 
-Gets the quantum-resistant-ledger price with Python (from JSON).
+Gets the newyork-exchange price with Python (from JSON).
 
 https://pythonbasics.org
