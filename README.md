@@ -1,5 +1,5 @@
-# newyork-exchange price 
+# top price 
 
-Gets the newyork-exchange price with Python (from JSON).
+Gets the top price with Python (from JSON).
 
 https://pythonbasics.org
