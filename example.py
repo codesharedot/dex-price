@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-gochain_api_url = 'https://api.coinmarketcap.com/v1/ticker/gochain/'
-response = requests.get(gochain_api_url)
+salt_api_url = 'https://api.coinmarketcap.com/v1/ticker/salt/'
+response = requests.get(salt_api_url)
 response_json = response.json()
 print(response_json)
 

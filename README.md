@@ -1,5 +1,5 @@
-# gochain price 
+# salt price 
 
-Gets the gochain price with Python (from JSON).
+Gets the salt price with Python (from JSON).
 
 https://pythonbasics.org
