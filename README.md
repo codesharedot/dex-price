@@ -1,5 +1,5 @@
-# dew price 
+# achain price 
 
-Gets the dew price with Python (from JSON).
+Gets the achain price with Python (from JSON).
 
 https://pythonbasics.org

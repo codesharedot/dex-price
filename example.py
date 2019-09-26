@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-dew_api_url = 'https://api.coinmarketcap.com/v1/ticker/dew/'
-response = requests.get(dew_api_url)
+achain_api_url = 'https://api.coinmarketcap.com/v1/ticker/achain/'
+response = requests.get(achain_api_url)
 response_json = response.json()
 print(response_json)
 
