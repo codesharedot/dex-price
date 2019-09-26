@@ -1,5 +1,5 @@
-# nectar price 
+# streamr-datacoin price 
 
-Gets the nectar price with Python (from JSON).
+Gets the streamr-datacoin price with Python (from JSON).
 
 https://pythonbasics.org
