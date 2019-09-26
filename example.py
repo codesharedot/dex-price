@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-top_api_url = 'https://api.coinmarketcap.com/v1/ticker/top/'
-response = requests.get(top_api_url)
+everex_api_url = 'https://api.coinmarketcap.com/v1/ticker/everex/'
+response = requests.get(everex_api_url)
 response_json = response.json()
 print(response_json)
 
