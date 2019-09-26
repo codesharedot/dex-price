@@ -1,5 +1,5 @@
-# gemini-dollar price 
+# gochain price 
 
-Gets the gemini-dollar price with Python (from JSON).
+Gets the gochain price with Python (from JSON).
 
 https://pythonbasics.org

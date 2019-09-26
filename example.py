@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-gemini-dollar_api_url = 'https://api.coinmarketcap.com/v1/ticker/gemini-dollar/'
-response = requests.get(gemini-dollar_api_url)
+gochain_api_url = 'https://api.coinmarketcap.com/v1/ticker/gochain/'
+response = requests.get(gochain_api_url)
 response_json = response.json()
 print(response_json)
 
