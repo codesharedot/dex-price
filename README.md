@@ -1,5 +1,5 @@
-# achain price 
+# raiden-network-token price 
 
-Gets the achain price with Python (from JSON).
+Gets the raiden-network-token price with Python (from JSON).
 
 https://pythonbasics.org

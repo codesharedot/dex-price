@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-achain_api_url = 'https://api.coinmarketcap.com/v1/ticker/achain/'
-response = requests.get(achain_api_url)
+raiden-network-token_api_url = 'https://api.coinmarketcap.com/v1/ticker/raiden-network-token/'
+response = requests.get(raiden-network-token_api_url)
 response_json = response.json()
 print(response_json)
 
