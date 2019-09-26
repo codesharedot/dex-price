@@ -1,5 +1,5 @@
-# everex price 
+# gemini-dollar price 
 
-Gets the everex price with Python (from JSON).
+Gets the gemini-dollar price with Python (from JSON).
 
 https://pythonbasics.org
