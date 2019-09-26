@@ -1,5 +1,5 @@
-# salt price 
+# dew price 
 
-Gets the salt price with Python (from JSON).
+Gets the dew price with Python (from JSON).
 
 https://pythonbasics.org
