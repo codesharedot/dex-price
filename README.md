@@ -1,5 +1,5 @@
-# elitium price 
+# cryptaldash price 
 
-Gets the elitium price with Python (from JSON).
+Gets the cryptaldash price with Python (from JSON).
 
 https://pythonbasics.org
