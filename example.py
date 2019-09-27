@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-tokenomy_api_url = 'https://api.coinmarketcap.com/v1/ticker/tokenomy/'
-response = requests.get(tokenomy_api_url)
+lto-network_api_url = 'https://api.coinmarketcap.com/v1/ticker/lto-network/'
+response = requests.get(lto-network_api_url)
 response_json = response.json()
 print(response_json)
 

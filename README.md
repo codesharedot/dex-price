@@ -1,5 +1,5 @@
-# tokenomy price 
+# lto-network price 
 
-Gets the tokenomy price with Python (from JSON).
+Gets the lto-network price with Python (from JSON).
 
 https://pythonbasics.org
