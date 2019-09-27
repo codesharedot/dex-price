@@ -1,5 +1,5 @@
-# streamr-datacoin price 
+# libra-credit price 
 
-Gets the streamr-datacoin price with Python (from JSON).
+Gets the libra-credit price with Python (from JSON).
 
 https://pythonbasics.org

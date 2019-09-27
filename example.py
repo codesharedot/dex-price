@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-streamr-datacoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/streamr-datacoin/'
-response = requests.get(streamr-datacoin_api_url)
+libra-credit_api_url = 'https://api.coinmarketcap.com/v1/ticker/libra-credit/'
+response = requests.get(libra-credit_api_url)
 response_json = response.json()
 print(response_json)
 
