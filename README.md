@@ -1,5 +1,5 @@
-# nkn price 
+# elitium price 
 
-Gets the nkn price with Python (from JSON).
+Gets the elitium price with Python (from JSON).
 
 https://pythonbasics.org

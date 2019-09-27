@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-nkn_api_url = 'https://api.coinmarketcap.com/v1/ticker/nkn/'
-response = requests.get(nkn_api_url)
+elitium_api_url = 'https://api.coinmarketcap.com/v1/ticker/elitium/'
+response = requests.get(elitium_api_url)
 response_json = response.json()
 print(response_json)
 
