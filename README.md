@@ -1,5 +1,5 @@
-# blox price 
+# foam price 
 
-Gets the blox price with Python (from JSON).
+Gets the foam price with Python (from JSON).
 
 https://pythonbasics.org
