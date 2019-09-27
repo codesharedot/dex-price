@@ -1,5 +1,5 @@
-# libra-credit price 
+# all-sports price 
 
-Gets the libra-credit price with Python (from JSON).
+Gets the all-sports price with Python (from JSON).
 
 https://pythonbasics.org
