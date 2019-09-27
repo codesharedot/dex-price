@@ -1,5 +1,5 @@
-# levolution price 
+# blox price 
 
-Gets the levolution price with Python (from JSON).
+Gets the blox price with Python (from JSON).
 
 https://pythonbasics.org
