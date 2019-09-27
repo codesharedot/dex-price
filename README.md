@@ -1,5 +1,5 @@
-# foam price 
+# amoveo price 
 
-Gets the foam price with Python (from JSON).
+Gets the amoveo price with Python (from JSON).
 
 https://pythonbasics.org
