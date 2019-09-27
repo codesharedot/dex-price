@@ -1,5 +1,5 @@
-# all-sports price 
+# tokenomy price 
 
-Gets the all-sports price with Python (from JSON).
+Gets the tokenomy price with Python (from JSON).
 
 https://pythonbasics.org
