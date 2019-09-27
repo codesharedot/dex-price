@@ -1,5 +1,5 @@
-# amoveo price 
+# nkn price 
 
-Gets the amoveo price with Python (from JSON).
+Gets the nkn price with Python (from JSON).
 
 https://pythonbasics.org

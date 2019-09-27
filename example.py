@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-amoveo_api_url = 'https://api.coinmarketcap.com/v1/ticker/amoveo/'
-response = requests.get(amoveo_api_url)
+nkn_api_url = 'https://api.coinmarketcap.com/v1/ticker/nkn/'
+response = requests.get(nkn_api_url)
 response_json = response.json()
 print(response_json)
 
