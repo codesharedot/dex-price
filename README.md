@@ -1,5 +1,5 @@
-# oneroot-network price 
+# insolar price 
 
-Gets the oneroot-network price with Python (from JSON).
+Gets the insolar price with Python (from JSON).
 
 https://pythonbasics.org

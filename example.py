@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-oneroot-network_api_url = 'https://api.coinmarketcap.com/v1/ticker/oneroot-network/'
-response = requests.get(oneroot-network_api_url)
+insolar_api_url = 'https://api.coinmarketcap.com/v1/ticker/insolar/'
+response = requests.get(insolar_api_url)
 response_json = response.json()
 print(response_json)
 
