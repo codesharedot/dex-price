@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-cryptaldash_api_url = 'https://api.coinmarketcap.com/v1/ticker/cryptaldash/'
-response = requests.get(cryptaldash_api_url)
+restart-energy-mwat_api_url = 'https://api.coinmarketcap.com/v1/ticker/restart-energy-mwat/'
+response = requests.get(restart-energy-mwat_api_url)
 response_json = response.json()
 print(response_json)
 

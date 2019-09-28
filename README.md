@@ -1,5 +1,5 @@
-# cryptaldash price 
+# restart-energy-mwat price 
 
-Gets the cryptaldash price with Python (from JSON).
+Gets the restart-energy-mwat price with Python (from JSON).
 
 https://pythonbasics.org
