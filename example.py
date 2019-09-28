@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-u-network_api_url = 'https://api.coinmarketcap.com/v1/ticker/u-network/'
-response = requests.get(u-network_api_url)
+sport-and-leisure_api_url = 'https://api.coinmarketcap.com/v1/ticker/sport-and-leisure/'
+response = requests.get(sport-and-leisure_api_url)
 response_json = response.json()
 print(response_json)
 

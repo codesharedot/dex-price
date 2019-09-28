@@ -1,5 +1,5 @@
-# u-network price 
+# sport-and-leisure price 
 
-Gets the u-network price with Python (from JSON).
+Gets the sport-and-leisure price with Python (from JSON).
 
 https://pythonbasics.org
