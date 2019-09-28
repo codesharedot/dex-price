@@ -1,5 +1,5 @@
-# incent price 
+# lockchain price 
 
-Gets the incent price with Python (from JSON).
+Gets the lockchain price with Python (from JSON).
 
 https://pythonbasics.org
