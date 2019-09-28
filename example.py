@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-namecoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/namecoin/'
-response = requests.get(namecoin_api_url)
+hydrogen_api_url = 'https://api.coinmarketcap.com/v1/ticker/hydrogen/'
+response = requests.get(hydrogen_api_url)
 response_json = response.json()
 print(response_json)
 
