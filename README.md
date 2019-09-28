@@ -1,5 +1,5 @@
-# sport-and-leisure price 
+# wagerr price 
 
-Gets the sport-and-leisure price with Python (from JSON).
+Gets the wagerr price with Python (from JSON).
 
 https://pythonbasics.org
