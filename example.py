@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-wagerr_api_url = 'https://api.coinmarketcap.com/v1/ticker/wagerr/'
-response = requests.get(wagerr_api_url)
+namecoin_api_url = 'https://api.coinmarketcap.com/v1/ticker/namecoin/'
+response = requests.get(namecoin_api_url)
 response_json = response.json()
 print(response_json)
 

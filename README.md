@@ -1,5 +1,5 @@
-# wagerr price 
+# namecoin price 
 
-Gets the wagerr price with Python (from JSON).
+Gets the namecoin price with Python (from JSON).
 
 https://pythonbasics.org
