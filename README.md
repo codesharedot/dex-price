@@ -1,5 +1,5 @@
-# lockchain price 
+# u-network price 
 
-Gets the lockchain price with Python (from JSON).
+Gets the u-network price with Python (from JSON).
 
 https://pythonbasics.org

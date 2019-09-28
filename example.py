@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-lockchain_api_url = 'https://api.coinmarketcap.com/v1/ticker/lockchain/'
-response = requests.get(lockchain_api_url)
+u-network_api_url = 'https://api.coinmarketcap.com/v1/ticker/u-network/'
+response = requests.get(u-network_api_url)
 response_json = response.json()
 print(response_json)
 
