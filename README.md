@@ -1,5 +1,5 @@
-# restart-energy-mwat price 
+# incent price 
 
-Gets the restart-energy-mwat price with Python (from JSON).
+Gets the incent price with Python (from JSON).
 
 https://pythonbasics.org
