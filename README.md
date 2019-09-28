@@ -1,5 +1,5 @@
-# bluzelle price 
+# oneroot-network price 
 
-Gets the bluzelle price with Python (from JSON).
+Gets the oneroot-network price with Python (from JSON).
 
 https://pythonbasics.org
