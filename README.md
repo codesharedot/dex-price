@@ -1,5 +1,5 @@
-# neblio price 
+# metronome price 
 
-Gets the neblio price with Python (from JSON).
+Gets the metronome price with Python (from JSON).
 
 https://pythonbasics.org

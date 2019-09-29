@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-neblio_api_url = 'https://api.coinmarketcap.com/v1/ticker/neblio/'
-response = requests.get(neblio_api_url)
+metronome_api_url = 'https://api.coinmarketcap.com/v1/ticker/metronome/'
+response = requests.get(metronome_api_url)
 response_json = response.json()
 print(response_json)
 
