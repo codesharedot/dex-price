@@ -1,5 +1,5 @@
-# pumapay price 
+# bitcny price 
 
-Gets the pumapay price with Python (from JSON).
+Gets the bitcny price with Python (from JSON).
 
 https://pythonbasics.org
