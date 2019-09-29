@@ -1,5 +1,5 @@
-# numeraire price 
+# pumapay price 
 
-Gets the numeraire price with Python (from JSON).
+Gets the pumapay price with Python (from JSON).
 
 https://pythonbasics.org
