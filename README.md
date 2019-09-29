@@ -1,5 +1,5 @@
-# contents-protocol price 
+# metahash price 
 
-Gets the contents-protocol price with Python (from JSON).
+Gets the metahash price with Python (from JSON).
 
 https://pythonbasics.org
