@@ -1,5 +1,5 @@
-# metronome price 
+# tokenclub price 
 
-Gets the metronome price with Python (from JSON).
+Gets the tokenclub price with Python (from JSON).
 
 https://pythonbasics.org

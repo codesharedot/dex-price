@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-metronome_api_url = 'https://api.coinmarketcap.com/v1/ticker/metronome/'
-response = requests.get(metronome_api_url)
+tokenclub_api_url = 'https://api.coinmarketcap.com/v1/ticker/tokenclub/'
+response = requests.get(tokenclub_api_url)
 response_json = response.json()
 print(response_json)
 
