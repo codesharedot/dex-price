@@ -1,5 +1,5 @@
-# kin price 
+# xtrabytes price 
 
-Gets the kin price with Python (from JSON).
+Gets the xtrabytes price with Python (from JSON).
 
 https://pythonbasics.org

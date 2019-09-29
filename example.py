@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-kin_api_url = 'https://api.coinmarketcap.com/v1/ticker/kin/'
-response = requests.get(kin_api_url)
+xtrabytes_api_url = 'https://api.coinmarketcap.com/v1/ticker/xtrabytes/'
+response = requests.get(xtrabytes_api_url)
 response_json = response.json()
 print(response_json)
 
