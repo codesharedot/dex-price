@@ -1,5 +1,5 @@
-# insolar price 
+# kin price 
 
-Gets the insolar price with Python (from JSON).
+Gets the kin price with Python (from JSON).
 
 https://pythonbasics.org

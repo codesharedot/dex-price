@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-insolar_api_url = 'https://api.coinmarketcap.com/v1/ticker/insolar/'
-response = requests.get(insolar_api_url)
+kin_api_url = 'https://api.coinmarketcap.com/v1/ticker/kin/'
+response = requests.get(kin_api_url)
 response_json = response.json()
 print(response_json)
 
