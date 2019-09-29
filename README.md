@@ -1,5 +1,5 @@
-# monetha price 
+# neblio price 
 
-Gets the monetha price with Python (from JSON).
+Gets the neblio price with Python (from JSON).
 
 https://pythonbasics.org
