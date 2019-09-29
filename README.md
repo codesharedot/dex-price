@@ -1,5 +1,5 @@
-# tokenclub price 
+# contents-protocol price 
 
-Gets the tokenclub price with Python (from JSON).
+Gets the contents-protocol price with Python (from JSON).
 
 https://pythonbasics.org
