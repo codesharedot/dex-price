@@ -1,5 +1,5 @@
-# xtrabytes price 
+# monetha price 
 
-Gets the xtrabytes price with Python (from JSON).
+Gets the monetha price with Python (from JSON).
 
 https://pythonbasics.org
