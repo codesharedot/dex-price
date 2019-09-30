@@ -1,5 +1,5 @@
-# bitcny price 
+# ethos price 
 
-Gets the bitcny price with Python (from JSON).
+Gets the ethos price with Python (from JSON).
 
 https://pythonbasics.org

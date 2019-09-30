@@ -7,8 +7,8 @@ c = CurrencyRates()
 rate = c.get_rate('USD', 'EUR') 
 print(rate)
 
-bitcny_api_url = 'https://api.coinmarketcap.com/v1/ticker/bitcny/'
-response = requests.get(bitcny_api_url)
+ethos_api_url = 'https://api.coinmarketcap.com/v1/ticker/ethos/'
+response = requests.get(ethos_api_url)
 response_json = response.json()
 print(response_json)
 
