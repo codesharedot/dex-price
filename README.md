@@ -1,5 +1,5 @@
-# ethos price 
+# dex price 
 
-Gets the ethos price with Python (from JSON).
+Gets the dex price with Python (from JSON).
 
 https://pythonbasics.org
